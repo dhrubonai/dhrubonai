@@ -7,7 +7,7 @@
 
 <!-- Modern quote -->
 <h3 align="center"><i>"I wish I was a cute school girl instead of a hood ngga From Bangladesh"</i></h3>
-<p align="center"><sub>— a guy, probably</sub></p>
+<p align="center"><sub>— a guy</sub></p>
 
 <br/>
 
