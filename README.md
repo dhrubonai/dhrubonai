@@ -65,7 +65,7 @@ I use a lot of AI agents for AI slop, and sometimes create tools, websites, apps
 
 <!-- AI -->
 <img src="https://img.shields.io/badge/AI_Agents-9146FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
-<img src="https://img.shields.io/badge/LLM_Tools-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM Tools" />
+<img src="https://img.shields.io/badge/LLM_Tools-FF6F61?style=for-the-badge" alt="LLM Tools" />
 <img src="https://img.shields.io/badge/Browser_Automation-4285F4?style=for-the-badge&logo=playwright&logoColor=white" alt="Browser Automation" />
 
 </div>
@@ -81,36 +81,36 @@ I use a lot of AI agents for AI slop, and sometimes create tools, websites, apps
     <td width="50%" align="center">
       <h3>Free-BD-IPTV</h3>
       <p>Free IPTV stream links for Bangladeshi viewers — news, movies, music, cartoons, sports & weather. Works with VLC & any IPTV player.</p>
-      <a href="https://github.com/dhrubonai/Free-BD-IPTV"><img src="https://img.shields.io/badge/View_Repo-→-2ea44f?style=for-the-badge" alt="Free-BD-IPTV" /></a>
+      <a href="https://github.com/dhrubonai/Free-BD-IPTV"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge" alt="Free-BD-IPTV" /></a>
     </td>
     <td width="50%" align="center">
       <h3>Hyperstream Addon</h3>
       <p>Ultimate Nuvio/Stremio streaming addon — anime, movies, series & more. Built with Hyperagent.</p>
-      <a href="https://github.com/dhrubonai/hyperstream-addon"><img src="https://img.shields.io/badge/View_Repo-→-2ea44f?style=for-the-badge" alt="Hyperstream" /></a>
+      <a href="https://github.com/dhrubonai/hyperstream-addon"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge" alt="Hyperstream" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <h3>MovieCrate</h3>
       <p>Movie & TV streaming app built on AniStation UI + Pi Stream API. Internal research project.</p>
-      <a href="https://github.com/dhrubonai/MovieCrate"><img src="https://img.shields.io/badge/View_Repo-→-2ea44f?style=for-the-badge" alt="MovieCrate" /></a>
+      <a href="https://github.com/dhrubonai/MovieCrate"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge" alt="MovieCrate" /></a>
     </td>
     <td width="50%" align="center">
       <h3>Dolphin Chat UI</h3>
       <p>Mobile-first PWA chat UI for Dolphin 2.9.3 Qwen2 0.5B — FastAPI + llama-cpp-python + agentic tools.</p>
-      <a href="https://github.com/dhrubonai/dolphin-chat-ui"><img src="https://img.shields.io/badge/View_Repo-→-2ea44f?style=for-the-badge" alt="Dolphin" /></a>
+      <a href="https://github.com/dhrubonai/dolphin-chat-ui"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge" alt="Dolphin" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <h3>Arise</h3>
       <p>Solo Leveling themed exercise app — level up like a hunter.</p>
-      <a href="https://github.com/dhrubonai/arise-app"><img src="https://img.shields.io/badge/View_Repo-→-2ea44f?style=for-the-badge" alt="Arise" /></a>
+      <a href="https://github.com/dhrubonai/arise-app"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge" alt="Arise" /></a>
     </td>
     <td width="50%" align="center">
       <h3>RemVol Booster</h3>
       <p>Free, anime-themed volume booster for Android — featuring Rem from Re:Zero.</p>
-      <a href="https://github.com/dhrubonai/remvol-booster"><img src="https://img.shields.io/badge/View_Repo-→-2ea44f?style=for-the-badge" alt="RemVol" /></a>
+      <a href="https://github.com/dhrubonai/remvol-booster"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge" alt="RemVol" /></a>
     </td>
   </tr>
 </table>
@@ -124,7 +124,7 @@ I use a lot of AI agents for AI slop, and sometimes create tools, websites, apps
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dhrubonai&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubonai&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=dhrubonai&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -149,7 +149,7 @@ I use a lot of AI agents for AI slop, and sometimes create tools, websites, apps
 
 <div align="center">
 
-<a href="https://dhrubox.com"><img src="https://img.shields.io/badge/Portfolio-dhrubox.com-1f6feb?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+<a href="https://dhrubox.com"><img src="https://img.shields.io/badge/Portfolio-dhrubox.com-1f6feb?style=for-the-badge" alt="Portfolio" /></a>
 &nbsp;
 <a href="mailto:dhrubobear@gmail.com"><img src="https://img.shields.io/badge/Email-dhrubobear@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 &nbsp;
