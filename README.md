@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- ===== Hero Banner (Reze) ===== -->
-<img src="assets/reze.jpg" width="260" alt="Reze" />
+<img src="assets/waifu.gif" width="260" alt="Reze" />
 
-# Hi, I'm Dhrubo 👋
+# Hi, I'm Dhrubo
 
 <!-- Modern quote -->
-<h3 align="center"><i>✨ "I wish I was a cute school girl instead of a hood ngga From Bangladesh" ✨</i></h3>
-<p align="center"><sub>— a guy, probably 🇧🇩</sub></p>
+<h3 align="center"><i>"I wish I was a cute school girl instead of a hood ngga From Bangladesh"</i></h3>
+<p align="center"><sub>— a guy, probably</sub></p>
 
 <br/>
 
 <!-- Quick stats badges -->
-<img src="https://img.shields.io/badge/🎓-Student-2ea44f?style=for-the-badge" alt="Student" />
-<img src="https://img.shields.io/badge/🛠️-Tool_Maker-ff8800?style=for-the-badge" alt="Tool Maker" />
-<img src="https://img.shields.io/badge/🤖-AI_Agent_User-9146ff?style=for-the-badge" alt="AI Agent User" />
-<img src="https://img.shields.io/badge/🎌-Anime_Lover-e91e63?style=for-the-badge" alt="Anime Lover" />
+<img src="https://img.shields.io/badge/Student-2ea44f?style=for-the-badge" alt="Student" />
+<img src="https://img.shields.io/badge/Tool_Maker-ff8800?style=for-the-badge" alt="Tool Maker" />
+<img src="https://img.shields.io/badge/AI_Agent_User-9146ff?style=for-the-badge" alt="AI Agent User" />
+<img src="https://img.shields.io/badge/Anime_Lover-e91e63?style=for-the-badge" alt="Anime Lover" />
 
 <br/><br/>
 
@@ -23,21 +23,21 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
-> **Just a guy.** 🤷
+> **Just a guy.**
 
 I use a lot of AI agents for AI slop, and sometimes create tools, websites, apps etc for fun.
 
-- 🎌 Anime · 📚 Bangla stories · 📸 phone photography
-- 🌍 Dhaka, Bangladesh
-- 🌐 [dhrubox.com](https://dhrubox.com)
+- Anime · Bangla stories · phone photography
+- Dhaka, Bangladesh
+- [dhrubox.com](https://dhrubox.com)
 
 <br/>
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -74,41 +74,41 @@ I use a lot of AI agents for AI slop, and sometimes create tools, websites, apps
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>📺 Free-BD-IPTV</h3>
+      <h3>Free-BD-IPTV</h3>
       <p>Free IPTV stream links for Bangladeshi viewers — news, movies, music, cartoons, sports & weather. Works with VLC & any IPTV player.</p>
       <a href="https://github.com/dhrubonai/Free-BD-IPTV"><img src="https://img.shields.io/badge/View_Repo-→-2ea44f?style=for-the-badge" alt="Free-BD-IPTV" /></a>
     </td>
     <td width="50%" align="center">
-      <h3>🎬 Hyperstream Addon</h3>
+      <h3>Hyperstream Addon</h3>
       <p>Ultimate Nuvio/Stremio streaming addon — anime, movies, series & more. Built with Hyperagent.</p>
       <a href="https://github.com/dhrubonai/hyperstream-addon"><img src="https://img.shields.io/badge/View_Repo-→-2ea44f?style=for-the-badge" alt="Hyperstream" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🎬 MovieCrate</h3>
+      <h3>MovieCrate</h3>
       <p>Movie & TV streaming app built on AniStation UI + Pi Stream API. Internal research project.</p>
       <a href="https://github.com/dhrubonai/MovieCrate"><img src="https://img.shields.io/badge/View_Repo-→-2ea44f?style=for-the-badge" alt="MovieCrate" /></a>
     </td>
     <td width="50%" align="center">
-      <h3>🐬 Dolphin Chat UI</h3>
+      <h3>Dolphin Chat UI</h3>
       <p>Mobile-first PWA chat UI for Dolphin 2.9.3 Qwen2 0.5B — FastAPI + llama-cpp-python + agentic tools.</p>
       <a href="https://github.com/dhrubonai/dolphin-chat-ui"><img src="https://img.shields.io/badge/View_Repo-→-2ea44f?style=for-the-badge" alt="Dolphin" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>⚔️ Arise</h3>
+      <h3>Arise</h3>
       <p>Solo Leveling themed exercise app — level up like a hunter.</p>
       <a href="https://github.com/dhrubonai/arise-app"><img src="https://img.shields.io/badge/View_Repo-→-2ea44f?style=for-the-badge" alt="Arise" /></a>
     </td>
     <td width="50%" align="center">
-      <h3>🔊 RemVol Booster</h3>
+      <h3>RemVol Booster</h3>
       <p>Free, anime-themed volume booster for Android — featuring Rem from Re:Zero.</p>
       <a href="https://github.com/dhrubonai/remvol-booster"><img src="https://img.shields.io/badge/View_Repo-→-2ea44f?style=for-the-badge" alt="RemVol" /></a>
     </td>
@@ -119,7 +119,7 @@ I use a lot of AI agents for AI slop, and sometimes create tools, websites, apps
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -145,13 +145,13 @@ I use a lot of AI agents for AI slop, and sometimes create tools, websites, apps
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 <div align="center">
 
-<a href="https://dhrubox.com"><img src="https://img.shields.io/badge/🌐_Portfolio-dhrubox.com-1f6feb?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+<a href="https://dhrubox.com"><img src="https://img.shields.io/badge/Portfolio-dhrubox.com-1f6feb?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 &nbsp;
-<a href="mailto:dhrubobear@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-dhrubobear@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:dhrubobear@gmail.com"><img src="https://img.shields.io/badge/Email-dhrubobear@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 &nbsp;
 <a href="https://github.com/dhrubonai"><img src="https://img.shields.io/badge/GitHub-@dhrubonai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 &nbsp;
@@ -178,6 +178,6 @@ I use a lot of AI agents for AI slop, and sometimes create tools, websites, apps
 
 <br/><br/>
 
-⭐ From [Dhrubo](https://github.com/dhrubonai), with ❤️ — made in Bangladesh 🇧🇩
+From [Dhrubo](https://github.com/dhrubonai), made in Bangladesh
 
 </div>
