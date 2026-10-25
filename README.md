@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- ===== Hero Banner (Reze) ===== -->
-<img src="https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/81fa7be9b777.png" width="280" alt="Reze" />
+<img src="assets/reze.jpg" width="260" alt="Reze" />
 
-# Hi, I'm Mohiuddin Abdul Kadir Dhrubo 👋
-### but you can call me **Dhrubo**
+# Hi, I'm Dhrubo 👋
 
-<!-- Animated typing tagline -->
-<a href="https://dhrubox.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=26A5E4&center=true&vCenter=true&random=false&width=640&lines=A+guy+figuring+out+what+he+wants+%F0%9F%8C%8A;Mini+tools+%C2%B7+Web+apps+%C2%B7+Android+%C2%B7+AI+agents;Building+practical+things+from+Dhaka+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" /></a>
+<!-- Modern quote -->
+<h3 align="center"><i>✨ "I wish I was a cute school girl instead of a hood ngga From Bangladesh" ✨</i></h3>
+<p align="center"><sub>— a guy, probably 🇧🇩</sub></p>
 
 <br/>
 
@@ -25,17 +25,13 @@
 
 ### 👋 About Me
 
-```yaml
-name: Dhrubo
-location: Dhaka, Bangladesh 🇧🇩
-role: Student · Indie Dev · Tinkerer
-interests: [anime, bangla stories, phone photography, AI agents]
-currently: building mini tools, websites & apps
-portfolio: https://dhrubox.com
-vibe: "a guy who's figuring out what he wants"
-```
+> **Just a guy.** 🤷
 
-I build **mini tools, websites, and Android apps** — usually with an anime twist, often powered by AI agents. I like reverse-engineering things, modding apps, and shipping small useful utilities fast. When I'm not coding, I'm watching anime, reading Bangla stories, or chasing light with my phone camera. 📸
+I use a lot of AI agents for AI slop, and sometimes create tools, websites, apps etc for fun.
+
+- 🎌 Anime · 📚 Bangla stories · 📸 phone photography
+- 🌍 Dhaka, Bangladesh
+- 🌐 [dhrubox.com](https://dhrubox.com)
 
 <br/>
 
@@ -174,7 +170,7 @@ I build **mini tools, websites, and Android apps** — usually with an anime twi
 <!-- ===== Footer Banner (Rem from Re:Zero) ===== -->
 <div align="center">
 
-<img src="https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f48299a18586.jpeg" width="240" alt="Rem" />
+<img src="assets/rem.jpg" width="220" alt="Rem" />
 
 <br/>
 
