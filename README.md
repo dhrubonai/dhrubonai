@@ -79,6 +79,18 @@ I use a lot of AI agents for AI slop, and sometimes create tools, websites, apps
 <table>
   <tr>
     <td width="50%" align="center">
+      <h3>YuTa</h3>
+      <p>YouTube and YouTube Music in one app, without the ads. Sign in with Google — your history, subscriptions and library come with you.</p>
+      <a href="https://github.com/dhrubonai/YuTa"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge" alt="YuTa" /></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>Doom Blocker</h3>
+      <p>Stop the mindless doom scrolling. Blocks Reels, Shorts and For You feeds — no root, no VPN, no ads or tracking.</p>
+      <a href="https://github.com/dhrubonai/Doom-Blocker-Releases"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge" alt="Doom Blocker" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <h3>Free-BD-IPTV</h3>
       <p>Free IPTV stream links for Bangladeshi viewers — news, movies, music, cartoons, sports & weather. Works with VLC & any IPTV player.</p>
       <a href="https://github.com/dhrubonai/Free-BD-IPTV"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge" alt="Free-BD-IPTV" /></a>
@@ -87,18 +99,6 @@ I use a lot of AI agents for AI slop, and sometimes create tools, websites, apps
       <h3>Hyperstream Addon</h3>
       <p>Ultimate Nuvio/Stremio streaming addon — anime, movies, series & more. Built with Hyperagent.</p>
       <a href="https://github.com/dhrubonai/hyperstream-addon"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge" alt="Hyperstream" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>MovieCrate</h3>
-      <p>Movie & TV streaming app built on AniStation UI + Pi Stream API. Internal research project.</p>
-      <a href="https://github.com/dhrubonai/MovieCrate"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge" alt="MovieCrate" /></a>
-    </td>
-    <td width="50%" align="center">
-      <h3>Dolphin Chat UI</h3>
-      <p>Mobile-first PWA chat UI for Dolphin 2.9.3 Qwen2 0.5B — FastAPI + llama-cpp-python + agentic tools.</p>
-      <a href="https://github.com/dhrubonai/dolphin-chat-ui"><img src="https://img.shields.io/badge/View_Repo-2ea44f?style=for-the-badge" alt="Dolphin" /></a>
     </td>
   </tr>
   <tr>
